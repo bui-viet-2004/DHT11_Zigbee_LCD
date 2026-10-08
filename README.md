@@ -1,2 +1,2 @@
 # DHT11_Zigbee_LCD
-Hiện thị thồn tin qua Zigbee
+Hiện thị thông tin qua Zigbee
